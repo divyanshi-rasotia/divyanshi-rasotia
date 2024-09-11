@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 - 📫 How to reach me: ddivyanshi693@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- ⚡ Fun fact : 
 -->
