@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack and Image Processing**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,C++**
+- 💬 Ask me about **Frontend and Design**
 
 - 📫 How to reach me **ddivyanshi693@gmail.com**
 
