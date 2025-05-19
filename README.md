@@ -2,8 +2,6 @@
 <h3 align="center">  A passionate frontend developer🖥️ and Machine learning enthusiast🤖. 
   Pursuing Bachelors of Technology in Computer Science and Engineering📚 currently in Pre final year.  My Focus is to make user experience more creative and interactive with creating unique and aesthetic designs🧸.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshi-rasotia&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshi-rasotia" /> </p>
-
 
 - 🔭 I’m currently working on **Cre Corner Full stack Website**
 
